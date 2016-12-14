@@ -23,3 +23,16 @@
   display: inline-block;
   margin: 0px 0px 20px 20px;
 }
+#blueContainer{
+  width: auto;
+  height: 100px;
+  background-color: blue;
+  margin: 0px 20px 20px;
+}
+.yellow{
+  width: 460px;
+  height: 80px;
+  background-color: yellow;
+  margin: 10px 0px 10px 10px;
+  display: inline-block;
+}
