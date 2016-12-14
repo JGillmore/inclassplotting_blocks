@@ -38,7 +38,17 @@
 }
 #purpleContainer{
   width: auto;
-  height: 220px;
+  height: 260px;
   background-color: purple;
   margin: 0px 20px 20px;
+}
+.white{
+  width: 200px;
+  height: 100px;
+  background-color: white;
+  margin: 20px 20px 20px;
+  display: inline-block;
+}
+#right{
+  float:right;
 }
